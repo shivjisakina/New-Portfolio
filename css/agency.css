@@ -8,6 +8,10 @@ body {
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.yellow {
+  color: #fed136;
+}
+
 .whiteText {
   color: white;
 }
